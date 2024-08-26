@@ -1,0 +1,12 @@
+{
+  "name": "turn-based-game-server",
+  "version": "1.0.0",
+  "description": "Server-side code for the turn-based strategy game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
